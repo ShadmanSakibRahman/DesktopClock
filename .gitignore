@@ -1,0 +1,16 @@
+# Build artifacts
+*.pdb
+*.obj
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
